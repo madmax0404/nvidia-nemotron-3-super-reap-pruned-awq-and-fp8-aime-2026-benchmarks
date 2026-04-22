@@ -3,6 +3,10 @@
 Benchmarks of the [REAP](https://arxiv.org/html/2510.13999v1)-pruned & fine-tuned [NVIDIA Nemotron 3 Super](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16) under two
 post-training quantization schemes on MathArena AIME 2026.
 
+- BF16: https://huggingface.co/Max-and-Omnis/Nemotron-3-Super-64B-A12B-Math-REAP-BF16
+- FP8: https://huggingface.co/Max-and-Omnis/Nemotron-3-Super-64B-A12B-Math-REAP-FP8
+- AWQ: https://huggingface.co/Max-and-Omnis/Nemotron-3-Super-64B-A12B-Math-REAP-AWQ
+
 ## Data
 
 [AIMO3's public reference problems](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3/data) and [AstralMath-v1](https://huggingface.co/datasets/nguyen599/AstralMath-v1) have been used.
