@@ -1,6 +1,6 @@
 # About the repo
 
-Benchmarks of the [REAP](https://arxiv.org/html/2510.13999v1)-pruned & fine-tuned [NVIDIA Nemotron 3 Super](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16) under two
+Benchmarks of the [REAP](https://arxiv.org/html/2510.13999v1)-pruned & fine-tuned [NVIDIA-Nemotron-3-Super-120B-A12B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16) under two
 post-training quantization schemes on MathArena AIME 2026.
 
 - BF16: https://huggingface.co/Max-and-Omnis/Nemotron-3-Super-64B-A12B-Math-REAP-BF16
