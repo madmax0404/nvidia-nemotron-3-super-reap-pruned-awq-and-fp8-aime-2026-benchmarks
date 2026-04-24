@@ -41,6 +41,7 @@ Run: `bash src/start_vllm_server.sh` (or `_fp8.sh`), then `python src/benchmark_
 
 - AWQ: ~43GB
 - FP8 dynamic: ~72GB
+- BF16: ~129GB
 
 ### Accuracy
 
